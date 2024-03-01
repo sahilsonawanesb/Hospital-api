@@ -24,6 +24,4 @@ API for Doctors of a Hospital which has been allocated by the govt. for testing,
 - [Express js](https://expressjs.com/)
 - [MongoDB Atlas](https://mongodb.com)
 
-## Authors
 
-- [@krishna Kant singh](https://www.github.com/kabhinav577)
